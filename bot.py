@@ -21,7 +21,7 @@ _ssl_ctx.verify_mode = ssl.CERT_NONE
 # TCPConnector создаётся внутри async-функций, не здесь!
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
-BOT_TOKEN   = os.getenv("BOT_TOKEN", "7624553636:AAG2f_LpEQpYzAgC0K42LlmctLjJXVBnBIk")
+BOT_TOKEN   = os.getenv("BOT_TOKEN", "8415596205:AAHxvAXbAm12Ki7db4elld3bF8WpMftkSxY")
 CHANNEL_ID  = "@postchannelanonc"           # канал для проверки подписки
 CHANNEL_URL = "https://t.me/postchannelanonc"
 
